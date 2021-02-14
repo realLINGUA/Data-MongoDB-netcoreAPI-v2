@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rlRepository", "rlRepository.csproj", "{75777BE4-07DA-470C-BB49-7934D837996D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75777BE4-07DA-470C-BB49-7934D837996D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75777BE4-07DA-470C-BB49-7934D837996D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75777BE4-07DA-470C-BB49-7934D837996D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75777BE4-07DA-470C-BB49-7934D837996D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC390EEF-9696-4767-88AE-E1CC31C8F693}
+	EndGlobalSection
+EndGlobal
